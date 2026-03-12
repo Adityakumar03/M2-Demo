@@ -7,6 +7,8 @@ public class Demo {
 		System.out.println("Hello Engineers");
 		
 		System.out.println("Hello again");
+		
+		System.out.println("Practiing git conflict from ATE");
 	}
 
 }

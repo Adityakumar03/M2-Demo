@@ -6,7 +6,6 @@ public class Demo3 {
 		
 		System.out.println("Pushing new code");
 		
-		System.out.println("Practiing git conflict from ATE");
 	}
 
 }
